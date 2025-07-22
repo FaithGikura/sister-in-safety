@@ -5,6 +5,19 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import AuthModal from "@/components/auth/AuthModal";
 import Hero from "@/components/landing/Hero";
 import Features from "@/components/landing/Features";
+import React from 'react';
+import logo from './assets/logo.png'; // Adjust the path based on where your image is
+
+const Header: React.FC = () => {
+    return (
+        <header>
+            <img src={logo} alt="Logo" />
+        </header>
+    );
+};
+
+export default Header;
+
 
 const Index = () => {
   const [showAuth, setShowAuth] = useState(false);
