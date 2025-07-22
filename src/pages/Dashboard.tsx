@@ -38,7 +38,7 @@ const Dashboard = () => {
               <Shield className="w-8 h-8 text-primary" />
               <div>
                 <h1 className="text-2xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-                  Sister in Safety
+                  Salama Dada
                 </h1>
                 <p className="text-sm text-muted-foreground">Stay safe, stay connected</p>
               </div>
