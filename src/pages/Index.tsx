@@ -6,7 +6,7 @@ import AuthModal from "@/components/auth/AuthModal";
 import Hero from "@/components/landing/Hero";
 import Features from "@/components/landing/Features";
 import React from 'react';
-import logo from './assets/logo.png'; // Adjust the path based on where your image is
+import logo from './src/images/logo.png'; // Adjust the path based on where your image is
 
 const Header: React.FC = () => {
     return (
