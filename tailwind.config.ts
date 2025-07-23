@@ -123,6 +123,7 @@ export default {
 				'emergency': 'var(--shadow-emergency)', 
 				'glow': 'var(--shadow-glow)'
 			}
+			
 		}
 	},
 	plugins: [require("tailwindcss-animate")],
