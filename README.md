@@ -1,34 +1,36 @@
-# Sister in Safety 🚨
+# 🛡️ SafeSister – Sister in Safety Net
 
-An AI-powered safety app for women in Kenya. Built with React, TypeScript, Tailwind CSS, and shadcn-ui. This project was initially scaffolded and deployed using [Lovable](https://lovable.dev).
-
----
-
-## 💡 Project Info
-
-**Lovable Project URL**: [https://lovable.dev/projects/1854fea6-9387-4783-a5ae-0970605863f3](https://lovable.dev/projects/1854fea6-9387-4783-a5ae-0970605863f3)
+**SafeSister** is an AI-powered safety platform designed to empower and protect women in Kenya. The app provides quick access to emergency help, safety resources, and a smart assistant chatbot — all wrapped in a clean, responsive, and user-friendly interface.
 
 ---
 
-## 🛠️ How to Edit This Code
+## 🚀 Features
 
-### Use Lovable
+- 🌐 **Home Section** – Introduction and mission of SafeSister.
+- 🛡️ **Protection Section** – Resources, guides, and safety tools.
+- 🚨 **Emergency Section** – Quick-action buttons and response information.
+- 🤖 **AI Chatbot** – For real-time answers, support, and guidance.
+- 📱 **Responsive Design** – Mobile-first, clean and accessible UI.
+- 🌈 **Modern Tech Stack** – Built using modern tools and best practices.
 
-Visit the [Lovable Project](https://lovable.dev/projects/1854fea6-9387-4783-a5ae-0970605863f3) and start prompting.  
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-### Use Your Preferred IDE
+## 🧰 Tech Stack
 
-```sh
-# Step 1: Clone the repository
-git clone https://github.com/FaithGikura/sister-in-safety.git
+- **Frontend**: React + Vite + TypeScript  
+- **Styling**: Tailwind CSS + ShadCN UI  
+- **Icons**: Lucide React  
+- **AI Integration**: Python (for backend AI/chatbot logic)  
+- **Deployment**: Vercel / Netlify / Localhost (your choice)
 
-# Step 2: Navigate into the project directory
-cd sister-in-safety
+---
 
-# Step 3: Install dependencies
+## 📁 Getting Started
+
+Clone the repo:
+
+```bash
+git clone https://github.com/your-username/safesister.git
+cd safesister
 npm install
-
-# Step 4: Start the development server
 npm run dev
-```
